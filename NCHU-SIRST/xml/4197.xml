@@ -1,0 +1,26 @@
+<annotation>
+	<folder>continuous_cloud_sky</folder>
+	<filename>788.bmp</filename>
+	<path>I:\Dim_target_Data\test_data\continuous_cloud_sky\788.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>338</width>
+		<height>235</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dim target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>124</ymin>
+			<xmax>194</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

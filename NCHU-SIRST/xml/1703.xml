@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1703.bmp</filename>
+	<path>/home/sq/数据集/简版/数据集/images/1703.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>589</width>
+		<height>418</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dim target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>174</ymin>
+			<xmax>304</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dim target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>392</ymin>
+			<xmax>428</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

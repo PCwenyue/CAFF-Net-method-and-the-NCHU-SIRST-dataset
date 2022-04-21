@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>586.bmp</filename>
+	<path>/home/sq/shiyan/simple3/val/images/586.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dim target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>140</ymin>
+			<xmax>308</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

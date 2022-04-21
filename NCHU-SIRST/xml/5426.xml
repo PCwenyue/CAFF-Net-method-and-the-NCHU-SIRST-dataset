@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>5426.bmp</filename>
+	<path>/home/sq/数据集/简版/数据集/images/5426.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>589</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dim target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>302</ymin>
+			<xmax>396</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

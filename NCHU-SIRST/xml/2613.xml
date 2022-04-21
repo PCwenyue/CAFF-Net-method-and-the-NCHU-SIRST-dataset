@@ -1,0 +1,26 @@
+<annotation>
+	<folder>complex_cloud</folder>
+	<filename>4.bmp</filename>
+	<path>I:\Dim_target_Data\test_data\complex_cloud\4.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>357</width>
+		<height>268</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dim target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>126</ymin>
+			<xmax>200</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

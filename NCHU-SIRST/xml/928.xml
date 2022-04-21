@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>928.bmp</filename>
+	<path>/home/sq/数据集/简版/数据集/images/928.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>589</width>
+		<height>418</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dim target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>172</ymin>
+			<xmax>276</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dim target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>404</xmin>
+			<ymin>252</ymin>
+			<xmax>411</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>
