@@ -16,7 +16,7 @@ CAFF-Net method and the NCHU-SIRST dataset
 The NCHU-SIRST dataset are divided into 273 training frames and 317 test frames, 
 and the target scene is roughly classified into six categories: architecture, cloudless sky, 
 complex clouds, continuous clouds, sea, and trees.The annotation form is XML.
- 
+![image text](https://github.com/PCwenyue/raw_images/blob/master/shiQi-1.jpg)
 ### Dataset Statistics
 52% of the targets are   pixels, 32% of the targets are   pixels, 14% of the targets are 
 pixels, and only 2% of the targets are   pixels.
