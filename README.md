@@ -9,7 +9,7 @@ CAFF-Net method and the NCHU-SIRST dataset
 2	Institute of Automation, Chinese Academy of Sciences, Beijing 100190, China;
 
 3 School of Information Engineering, Nanchang Hangkong University, Nanchang 330063, China; 
-### This paper has been submitted to Remote Sensing
+### This paper has been submitted to Infrared Physics & Technology
 
 
 # Dataset Description
